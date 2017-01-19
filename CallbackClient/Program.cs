@@ -10,6 +10,7 @@ namespace CallbackClient
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
